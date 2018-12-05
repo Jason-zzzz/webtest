@@ -1,0 +1,8 @@
+body{
+    background-image: url(../image/op.png);
+    position: absolute;
+    background-repeat:no-repeat;
+    background-size: 200px 100px;
+    top: 30px;
+    color:red;
+}
